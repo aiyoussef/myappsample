@@ -1,0 +1,2 @@
+This file will be mentioned in .gitignore so that it is not committed with the rest of the files.
+If you do *.txt, all .txt files will be ignored
